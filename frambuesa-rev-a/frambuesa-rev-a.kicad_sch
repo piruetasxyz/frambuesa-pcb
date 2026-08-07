@@ -10797,7 +10797,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x20_P2.54mm_Vertical"
 			(at 176.53 292.1 0)
 			(hide yes)
 			(show_name no)
@@ -11213,7 +11213,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x20_P2.54mm_Vertical"
 			(at 247.65 292.1 0)
 			(hide yes)
 			(show_name no)
